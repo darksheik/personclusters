@@ -1,1 +1,1 @@
-java -classpath bin pontiflextestcase/KMeansTestDriver
+java -classpath bin personclusters/KMeansTestDriver
